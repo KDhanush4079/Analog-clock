@@ -1,4 +1,3 @@
-
 setInterval(() => {
     d = new Date();
     hr = d.getHours();
